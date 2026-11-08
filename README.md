@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient:0f0c29,302b63,24243e&text=Gaurav%20Shashikant%20Shinde&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20LLM%20Agents%20%C2%B7%20RAG%20%C2%B7%20Fine-tuning&descSize=18&descAlignY=72" alt="header"/>
 
 <a href="https://github.com/Gaurav-shinde2207">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+—+LLM+agents,+RAG+pipelines,+production+ML+APIs;Fine-tuning+Llama-class+SLMs+and+serving+them+at+the+edge;LangGraph+agents+%C2%B7+Citation-aware+RAG+%C2%B7+Gemini+apps;Actively+seeking+AI+%2F+ML+Engineer+roles" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+Engineer+%E2%80%94+LLM+agents,+RAG+pipelines,+production+ML+APIs;Fine-tuning+Llama-class+SLMs+and+serving+them+at+the+edge;LangGraph+agents+%C2%B7+Citation-aware+RAG+%C2%B7+Gemini+apps;Actively+seeking+AI+%2F+ML+Engineer+roles" alt="typing"/>
 </a>
 
 [![Profile views](https://komarev.com/ghpvc/?username=Gaurav-shinde2207&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Gaurav-shinde2207)
