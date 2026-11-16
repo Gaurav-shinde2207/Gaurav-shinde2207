@@ -45,9 +45,10 @@ I take models from notebook to production: self-correcting agents, retrieval pip
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gaurav-shinde2207&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav-shinde2207&theme=tokyonight" alt="stats"/>
   <img height="170" src="https://streak-stats.demolab.com?user=Gaurav-shinde2207&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata" alt="streak"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gaurav-shinde2207&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav-shinde2207&theme=tokyonight" alt="languages"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurav-shinde2207&theme=tokyonight" alt="commit languages"/>
 </div>
 
 ## 🐍 Contribution Snake
